@@ -46,16 +46,16 @@ np.array.flatten();
 
 ##### I typically listen to Japanese music and here are some of my favorite artists:
 <br />
-<img src="Fujii_Kaze.jpeg" alt="Fujii Kaze" width="300"/>
-<img src="Yorushika.jpeg" alt="Yorushika" width="300"/>
+<img src="Fujii_Kaze.jpeg" alt="Fujii Kaze" width="600"/>
+<img src="Yorushika.jpeg" alt="Yorushika" width="600"/>
 <img src="Takase_Touya.jpeg" alt="Takase_Touya" width="600"/>
 
 <br />
 
-- Left top: [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi?si=lxEdho2BR12ismrXqC4Vkw) (藤井風) → His songs are mostly pop song that incorporates jazzy vibes. Watching him enjoying performance will make you want to dance with him as well! There is a [song](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW?si=a97b327a0fb044ed) that is becoming popular on tiktok worldwide! Check it out!
+- Top: [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi?si=lxEdho2BR12ismrXqC4Vkw) (藤井風) → His songs are mostly pop song that incorporates jazzy vibes. Watching him enjoying performance will make you want to dance with him as well! There is a [song](https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW?si=a97b327a0fb044ed) that is becoming popular on tiktok worldwide! Check it out!
 <br />
 
-- Right top: [Yorushika](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik?si=Cu0JBzZiQ-yOgcK2e_5HMA)　(ヨルシカ) → Yorushika is a band composed of the vocalist, Suis, and music composer, n-buna. Nobody knows what they look like because they've never shown their face online! There is a live performance filmed on [Youtube](https://youtu.be/Ht6lcYg9Zfo) but you still can't see their faces 😩 By the way, I am practicing finger style guitar for the second song performed in this youtube link. The song is so soothing and warm ♪( ´θ｀)ノ
+- Middle: [Yorushika](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik?si=Cu0JBzZiQ-yOgcK2e_5HMA)　(ヨルシカ) → Yorushika is a band composed of the vocalist, Suis, and music composer, n-buna. Nobody knows what they look like because they've never shown their face online! There is a live performance filmed on [Youtube](https://youtu.be/Ht6lcYg9Zfo) but you still can't see their faces 😩 By the way, I am practicing finger style guitar for the second song performed in this youtube link. The song is so soothing and warm ♪( ´θ｀)ノ
 <br />
 
 - Bottom: [Takase Naoya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O?si=94J2L6rfSJ-7pBFUCkDfGA)  (高瀬統也) → I was recently introduced to this artist by my Taiwanese friend and the first thing that struck me was the creativity in his title making for one of the song called, ["The 1st of the 13th month"](https://open.spotify.com/track/2TgikqWC5DnBOG4i4voigu?si=a2W7o3XiQCSwnrzk7zKq2w). He is a growing artist in Japan and my current [favorite song](https://open.spotify.com/track/35uvl8szo0IRhaoFgDdumu?si=Vvkko-A9Rx6UHtwSzcEpjw) sounds similar to the [EP](https://open.spotify.com/track/28QpCzFbTf09Jsj2zuz58t?si=TWDY0FvsRHWNkxPIIkKV8w) for one of my favorite anime called 86. So whenever I listen to this song, I remember the anime and how I was fascinated by the ending 😆
